@@ -42,7 +42,8 @@ ________________________________________________________________________________
 ### .gitattributes [:rewind:](#read-me)
 --------------------------------------------------------------------------------
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
-```Markdown
+
+```markdown
 .git                    export-ignore
 .gitignore              export-ignore
 .gitattributes          export-ignore
