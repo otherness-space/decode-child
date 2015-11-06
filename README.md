@@ -1,18 +1,18 @@
 #Read Me
 
 ## Contents
-#### [About](https://github.com/otherness-space/decode-child#about-1)
-##### [Who](https://github.com/otherness-space/decode-child#who-1)
-##### [What](https://github.com/otherness-space/decode-child#what-1)
-##### [Where](https://github.com/otherness-space/decode-child#where-1)
-##### [Why](https://github.com/otherness-space/decode-child#why-1)
-#### [Notes](https://github.com/otherness-space/decode-child#notes-1)
-##### [Note 1](https://github.com/otherness-space/decode-child#note-1-1)
-##### [Note 2](https://github.com/otherness-space/decode-child#note-2-1)
-#### [Appendix](https://github.com/otherness-space/decode-child#appendix-1)
-##### [.gitattributes](https://github.com/otherness-space/decode-child#gitattributes-1)
-##### [.gitignore](https://github.com/otherness-space/decode-child#gitignore-1)
-##### [.exclude](https://github.com/otherness-space/decode-child#exclude-1)
+#### [About](https://github.com/otherness-space/decode-child#about-rewind)
+##### [Who](https://github.com/otherness-space/decode-child#who-rewind)
+##### [What](https://github.com/otherness-space/decode-child#what-rewind)
+##### [Where](https://github.com/otherness-space/decode-child#where-rewind)
+##### [Why](https://github.com/otherness-space/decode-child#why-rewind)
+#### [Notes](https://github.com/otherness-space/decode-child#notes-rewind)
+##### [Note 1](https://github.com/otherness-space/decode-child#note-1-rewind)
+##### [Note 2](https://github.com/otherness-space/decode-child#note-2-rewind)
+#### [Appendix](https://github.com/otherness-space/decode-child#appendix-rewind)
+##### [.gitattributes](https://github.com/otherness-space/decode-child#gitattributes-rewind)
+##### [.gitignore](https://github.com/otherness-space/decode-child#gitignore-rewind)
+##### [.exclude](https://github.com/otherness-space/decode-child#exclude-rewind)
 ________________________________________________________________________________
 ## About [:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
