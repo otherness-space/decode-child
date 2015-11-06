@@ -14,32 +14,32 @@
 ##### [.gitignore](https://github.com/otherness-space/decode-child#gitignore-1)
 ##### [.exclude](https://github.com/otherness-space/decode-child#exclude-1)
 ________________________________________________________________________________
-## About
+## About[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
-### Who
---------------------------------------------------------------------------------
-
-### What
+### Who[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
 
-### Where
+### What[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
 
-### Why
+### Where[:rewind:](https://github.com/otherness-space/decode-child#read-me)
+--------------------------------------------------------------------------------
+
+### Why[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
 
 ________________________________________________________________________________
-## Notes
+## Notes[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
-### Note 1
+### Note 1[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
 
-### Note 2
+### Note 2[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
 ________________________________________________________________________________
-## Appendix
+## Appendix[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
-### .gitattributes
+### .gitattributes[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
 
@@ -51,8 +51,8 @@ codesniffer.ruleset.xml export-ignore
 
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 
-### .gitignore
+### .gitignore[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
 
-### .exclude
+### .exclude[:rewind:](https://github.com/otherness-space/decode-child#read-me)
 --------------------------------------------------------------------------------
