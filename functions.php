@@ -12,10 +12,10 @@ function theme_enqueue_styles() {
 }
 add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
 
-require_once( get_template_directory() . '/inc/customizer.php' );
+// require_once( get_template_directory() . '/inc/customizer.php' );
 
-require_once( get_template_directory() . '/inc/tha-theme-hooks.php' );
+// require_once( get_template_directory() . '/inc/tha-theme-hooks.php' );
 
-require_once( get_stylesheet_directory() . '/footer.php' );
+// require_once( get_stylesheet_directory() . '/footer.php' );
 
 ?>
